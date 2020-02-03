@@ -1,0 +1,10 @@
+.badge {
+  background: #e6d6d6;
+}
+
+.badge:hover {
+  color: red;
+}
+.selectedddd {
+  background: yellow;
+}
